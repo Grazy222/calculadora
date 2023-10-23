@@ -1,0 +1,12 @@
+.equal-btn {
+  cursor: pointer;
+  height: 4em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: lighter;
+  font-size: 1.4em;
+  background-color: #c5c3cd;
+  color: #000000;
+  width: 23em;
+}
